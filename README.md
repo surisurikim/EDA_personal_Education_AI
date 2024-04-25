@@ -1,6 +1,6 @@
 # 2022 개정교육과정 분석 및 AI 기반 맞춤형 교육의 현황과 과제 👩🏻‍🎓
+* Personal EDA Project
 * Analysis of the 2022 Revised Curriculum and the Current Status and Challenges of AI-based Personalized Education
-* 2024. 04. 30. 개인 EDA 프로젝트
 
 
   
