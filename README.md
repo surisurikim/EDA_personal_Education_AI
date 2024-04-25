@@ -10,7 +10,7 @@
 
 
 
-## Contents / 내용 (Contents) ⭐️
+## Contents / 내용 ⭐️
 1. 2022 개정 교육과정 분석 (Analysis of the 2022 Revised Curriculum)
 2. 에듀테크 마켓 트랜드 도출 (Derivation of Edutech Market Trends)
 3. 컴퓨터 비전을 활용한 AI교육 아이디어 제시 (Presentation of AI Education Ideas Utilizing Computer Vision)
@@ -18,7 +18,7 @@
 
 
 
-## Files / 파일 (Files) 📁
+## Files / 파일 📁
 - Code/ML_codes.ipynb : 모델링 및 시각화 (Modeling and Visualization)
 - Code/Crawling_codes.ipynb : 웹 데이터 수집, 전처리, 분석 및 시각화 (Web Data Crawling, Pre-processing, Analysis, and Visualization)
 - Code/model_weights.h5 : Saved Weights of 7 Labels Model
@@ -30,5 +30,5 @@
 
 
 ## Contact / 연락처 💼
-본 프로젝트에 대한 문의나 피드백이 있으시면 [niceonesuri@gmail.com]으로 연락 바랍니다.
-For any inquiries or feedback regarding this project, please contact [niceonesuri@gmail.com].
+- 본 프로젝트에 대한 문의나 피드백이 있으시면 [niceonesuri@gmail.com]로 연락 바랍니다.
+- For any inquiries or feedback regarding this project, please contact [niceonesuri@gmail.com].
