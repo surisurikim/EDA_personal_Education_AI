@@ -6,6 +6,10 @@
   
 ## Overview / 개요 🌎
 * 본 프로젝트는 2024년 3월 1일부터 2027년 3월 1일까지 순차 확대 적용되는 2022 개정교육과정을 분석하여 에듀테크 기업에 필요한 인사이트💡를 제공합니다.
+1. 2022 개정교육과정 관련 데이터 수집 및 분석, 시각화
+2. 에듀테크 마켓 트랜드, 현황 도출
+3. 맞춤형 교육 AI 아이디어 제시, 기존 논문 검증
+4. 기업 성장에 필요한 인사이트 도출
 * This project aims to analyze the 2022 curriculum revision in South Korea and explore insights necessary for related initiatives. Additionally, it examines the current research landscape of AI-based personalized education, derives insights, and suggests future directions that could be blue ocean.
 
 
