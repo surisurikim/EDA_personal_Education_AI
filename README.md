@@ -18,8 +18,16 @@
 1. 2022 개정 교육과정 분석 (Analysis of the 2022 Revised Curriculum)
 2. 에듀테크 마켓 트랜드 도출 (Derivation of Edutech Market Trends)
 3. 컴퓨터 비전을 활용한 AI교육 아이디어 제시 (Presentation of AI Education Ideas Utilizing Computer Vision)
-4. 기존 연구 검증 및 인사이트 제시 (Validation of Existing Research and Presentation of Insights)  
+4. 기존 연구 검증 및 인사이트 제시 (Validation of Existing Research and Presentation of Insights)
 
+
+## Results / 결과
+* AI 코스웨어 시장을 선도할 신기술로 학습자의 학습 이해도를 예측하여 제공하는 AI모델 아이디어 제시
+* 정확한 이해도 예측을 위해 다음 3가지 데이터 종합 분석 필요
+    1. 학습 데이터 누적 분석
+    2. 학습 목표와 주제에 따른 (이해도별) 비언어적 표현 예측
+    3. 학생 비언어적 포착, 분석
+* 이해도 확인은 곧 학생의 메타 인지 활성화로 이어져 학습자는 효율적인 학습을경험, 이는 곧 기업의 매출 신장으로 이어지게 될 것
 
 
 ## Files / 파일 📁
