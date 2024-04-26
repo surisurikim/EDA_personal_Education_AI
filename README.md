@@ -1,4 +1,4 @@
-# 에듀테크 마켓 트랜드와 AI 코스웨어에 필요한 새로운 기능 👩🏻‍🎓
+# 에듀테크 마켓 트랜드 분석 & AI 코스웨어 기능 아이디어 제시 👩🏻‍🎓
 1. 2022 개정교육과정 관련 데이터 수집 및 분석, 시각화
 2. 에듀테크 마켓 트랜드, 현황 도출
 3. 맞춤형 교육 AI 아이디어 제시, 기존 논문 검증
@@ -14,7 +14,6 @@
 
 ## Contact / 연락처 💼
 - 본 프로젝트에 대한 문의나 피드백이 있으시면 [niceonesuri@gmail.com]로 연락 바랍니다.
-- For any inquiries or feedback regarding this project, please contact [niceonesuri@gmail.com].
 
 ### (+) English
 This project aims to analyze the 2022 curriculum revision in South Korea and explore insights necessary for related initiatives. Additionally, it examines the current research landscape of AI-based personalized education, derives insights, and suggests future directions that could be blue ocean.
@@ -22,3 +21,5 @@ This project aims to analyze the 2022 curriculum revision in South Korea and exp
 2. Derivation of Edutech Market Trends
 3. Presentation of AI Education Ideas Utilizing Computer Vision
 4. Validation of Existing Research and Presentation of Insights
+- For any inquiries or feedback regarding this project, please contact [niceonesuri@gmail.com].
+
