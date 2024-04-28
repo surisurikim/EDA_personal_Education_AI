@@ -1,25 +1,18 @@
-# 에듀테크 마켓 트랜드 분석 & AI 코스웨어 기술 아이디어 제시 👩🏻‍🎓
+# [EduTech] AI 코스웨어와 컴퓨터 비전 분석 EDA 👩🏻‍🎓
+> [PPT] https://shorturl.at/bzBN6
 1. 2022 개정교육과정 관련 데이터 수집 및 분석, 시각화
-2. 에듀테크 마켓 트랜드, 현황 도출
-3. 맞춤형 교육 AI 아이디어 제시, 기존 논문 검증
-4. 기업 성장에 필요한 인사이트 도출
+2. AI 코스웨어 관련 에듀테크 기업 현황 분석
+3. AI 코스웨어 튜터기능에서 '컴퓨터 비전' 모델 추가의 필요성
+4. 관련 연구 현황 분석, 논문 검증
+5. 최종 결론 및 인사이트 도출
+> AI 코스웨어 : AI(인공지능) + Course(교육과정) + Software(소프트웨어) => 인공지능 기능을 탑재한 디지털 교과서로, 스마트 기기를 이용해서 학습한다. 학생들은 AI 코스웨어에 자신의 데이터를 축적하며 수준과 특성에 맞는 맞춤형 교육을 제공받을 수 있다.
 
 ## Results / 결과
-* AI 코스웨어 시장을 선도할 신기술로 학습자의 학습 이해도를 예측하여 제공하는 AI모델 아이디어 제시
-* 정확한 이해도 예측을 위해 다음 3가지 데이터 종합 분석 필요
-    1. 학습 데이터 누적 분석
-    2. 학습 목표와 주제에 따른 (이해도별) 비언어적 표현 예측
-    3. 학생 비언어적 포착, 분석
-* 이해도 확인은 곧 학생의 메타 인지 활성화로 이어져 학습자는 효율적인 학습을경험, 이는 곧 기업의 매출 신장으로 이어지게 될 것
+* 2023-2024 AI 코스웨어의 주요 기능별 성장률 중에서 AI 튜터기능의 성장률이 최저치를 기록했다.
+* 2024년 4월 4일 기준 AI 튜터기능을 탑재한 78개의 서비스 중에서 84.6%는 학습자 데이터 분석 및 예측 기능을, 음성 인식 및 채점 기능을 탑재하고 있었으며, 컴퓨터 비전 기능을 이용한 AI 튜터 서비스는 0건으로 확인되었다.
+* 발표자는 AI 튜터기능의 성장률이 저조한 이유로 컴퓨터 비전의 부재로 인한 분석 정확도와 신뢰도 하락을 지적한다. 학습 데이터 분석에 학생의 비언어적 표현을 분석하는 컴퓨터 비전 모델을 추가하여 튜터 기능의 정확도와 신뢰도를 높여야 한다는 것이다.
+* 참고할 수 있는 기존 연구 논문 1건을 찾았으나 이해도 측정 모델의 트레이닝 데이터로 FER 2013을 사용한다는 점에서 학습자의 감정도 이해도도 정확히 파악할 수 없었다는 문제점이 있었고, 발표자는 직접 모델링을 통해 이를 직접 검증했다. 
+* 향후 AI 코스웨어 튜터기능 내 컴퓨터 비전 모델의 연구 방향성과 주의점 4가지를 끝으로 프로젝트를 마무리한다.
 
 ## Contact / 연락처 💼
 - 본 프로젝트에 대한 문의나 피드백이 있으시면 [niceonesuri@gmail.com]로 연락 바랍니다.
-
-### (+) English
-This project aims to analyze the 2022 curriculum revision in South Korea and explore insights necessary for related initiatives. Additionally, it examines the current research landscape of AI-based personalized education, derives insights, and suggests future directions that could be blue ocean.
-1. Analysis of the 2022 Revised Curriculum
-2. Derivation of Edutech Market Trends
-3. Presentation of AI Education Ideas Utilizing Computer Vision
-4. Validation of Existing Research and Presentation of Insights
-- For any inquiries or feedback regarding this project, please contact [niceonesuri@gmail.com].
-
