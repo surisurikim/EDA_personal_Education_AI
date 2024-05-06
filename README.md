@@ -1,4 +1,4 @@
-# [EduTech] AI 코스웨어와 컴퓨터 비전 분석 EDA 👩🏻‍🎓
+# [EduTech] AI 코스웨어와 컴퓨터 비전 분석 EDA 👩🏻‍🎓 
 > [PPT] https://shorturl.at/bzBN6
 1. 2022 개정교육과정 관련 데이터 수집 및 분석, 시각화
 2. AI 코스웨어 관련 에듀테크 기업 현황 분석
@@ -16,3 +16,25 @@
 
 ## Contact / 연락처 💼
 - 본 프로젝트에 대한 문의나 피드백이 있으시면 [niceonesuri@gmail.com]로 연락 바랍니다.
+
+---
+
+# eng ver 🌎 [EduTech] Analysis of AI Courseware Trends and Computer Vision in Education 👩🏻‍🎓
+> [PPT] https://shorturl.at/bzBN6
+1. Collection, analysis, and visualization of data related to the 2022 revised curriculum.
+2. Analysis of the current landscape of EduTech companies related to AI courseware.
+3. Identifying the necessity of incorporating 'computer vision' models into AI courseware tutoring functionality.
+4. Analysis of relevant research status and validation of academic papers.
+5. Drawing final conclusions and insights.
+
+> AI Courseware: AI (Artificial Intelligence) + Course + Software => Digital textbooks equipped with AI features, enabling learning through smart devices. Students accumulate their data on AI courseware, receiving tailored education according to their levels and characteristics.
+
+## Results
+* Among the growth rates of key functionalities of AI courseware from 2023 to 2024, the growth rate of AI tutoring functionality recorded the lowest.
+* As of April 4, 2024, out of 78 services featuring AI tutoring functionality, 84.6% incorporated learner data analysis and prediction functionalities, as well as speech recognition and grading functionalities, while no AI tutoring services utilizing computer vision functionalities were identified.
+* The presenter points out the decrease in analysis accuracy and reliability due to the absence of computer vision as a reason for the low growth rate of AI tutoring functionality. It is suggested to enhance the accuracy and reliability of tutoring functionality by adding a computer vision model to analyze non-verbal expressions in learner data analysis.
+* Although only one relevant research paper was found, there was a problem in accurately understanding learners' emotions and comprehension levels using the FER 2013 dataset as training data for the understanding model. The presenter addressed this issue by directly validating it through modeling.
+* The project concludes with four research directions and considerations for the future development of computer vision models within AI courseware tutoring functionality.
+
+## Contact
+- For inquiries or feedback regarding this project, please contact [niceonesuri@gmail.com].
